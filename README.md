@@ -1,6 +1,5 @@
 # MVJCE Space - Campus Events Management
 
-A modern and effective web application for managing and viewing college events at MVJ College of Engineering, bengaluru.
 
 ## Features
 
