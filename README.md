@@ -2,14 +2,6 @@
  
 A modern, interactive, and highly efficient web application designed for managing, organizing, and viewing college events at MVJ College of Engineering. The platform aims to simplify event coordination for students, faculty, clubs, and organizers by providing a centralized digital space where users can explore upcoming events, register for activities, receive real-time updates, and manage participation seamlessly. 
 
-## Features
-
-- ✅ Create, update, and delete campus events
-- ✅ Filter events by club, category, or date
-- ✅ Highlight upcoming and ongoing events
-- ✅ Responsive design (mobile & desktop)
-- ✅ Beautiful, modern UI with smooth animations
-- ✅ Data stored in browser localStorage
 
 ## Quick Start
 
