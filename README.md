@@ -1,6 +1,5 @@
 # MVJCE Space - Campus Events Management
  
-A modern, interactive, and highly efficient web application designed for managing, organizing, and viewing college events at MVJ College of Engineering. The platform aims to simplify event coordination for students, faculty, clubs, and organizers by providing a centralized digital space where users can explore upcoming events, register for activities, receive real-time updates, and manage participation seamlessly. 
 
 ## Features
 
