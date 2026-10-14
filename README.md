@@ -1,14 +1,4 @@
-# MVJCE Space - Campus Events Management
 
-MVJCE Space is a modern and interactive web application designed to manage, organize, and display college events at MVJ College of Engineering. The platform provides a centralized digital space where students, faculty, clubs, and organizers can explore upcoming events, manage event details, and access event information efficiently.
-
-The application simplifies campus event management through a responsive interface, event filtering, status highlights, and browser-based data persistence.
-
-## Live Demo
-
-The application is deployed on Vercel.
-
-Live Website: [https://mvjce-space.vercel.app/](https://mvjce-space.vercel.app/) 
 
 ## Features
 
