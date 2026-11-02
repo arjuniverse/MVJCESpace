@@ -4,7 +4,27 @@ MVJCE Space is a modern and interactive web application designed to manage, orga
 
 The application simplifies campus event management through a responsive interface, event filtering, status highlights, and browser-based data persistence.
 
+## Live Demo
 
+The application is deployed on Vercel.
+
+Live Website: [https://mvjce-space.vercel.app/](https://mvjce-space.vercel.app/) 
+
+## Features
+
+* Create, update, and delete campus events
+
+* Filter events by club, category, or date
+
+* Highlight upcoming and ongoing events
+
+* Responsive design for desktop and mobile devices
+
+* Modern user interface with smooth animations
+
+* Browser-based data storage using LocalStorage
+
+* Centralized platform for viewing and managing campus events
 
 ## System Architecture
 
